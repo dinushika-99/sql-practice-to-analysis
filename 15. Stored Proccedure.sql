@@ -54,6 +54,8 @@ DELIMITER ;
 
 call large_salary4(1);
 
+-- can create procedure to use specific output
+
 
 
 
